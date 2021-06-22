@@ -1,3 +1,7 @@
 .text-center > p {
 	text-align: right;
 }
+
+.container-fluid {
+	margin-bottom: 36px;
+}	
